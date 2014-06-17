@@ -1,0 +1,6 @@
+C:\Users\pc1\AppData\Local\Temporary Projects\HMW\bin\Debug\HMW.exe
+C:\Users\pc1\AppData\Local\Temporary Projects\HMW\bin\Debug\HMW.pdb
+C:\Users\pc1\AppData\Local\Temporary Projects\HMW\obj\x86\Debug\HMW.exe
+C:\Users\pc1\AppData\Local\Temporary Projects\HMW\obj\x86\Debug\HMW.pdb
+C:\Users\pc1\Desktop\HMW\HMW\obj\x86\Debug\HMW.exe
+C:\Users\pc1\Desktop\HMW\HMW\obj\x86\Debug\HMW.pdb
